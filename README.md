@@ -191,5 +191,8 @@ button{
     font-weight: 600;
 }
 ```
+## output:
+<img width="1917" height="919" alt="Screenshot 2025-10-16 191622" src="https://github.com/user-attachments/assets/b6bc84a3-e80e-47ca-9438-d75fcae32541" />
+
 ## result:
 the above code gives a web page email login and code is executed successfully.
